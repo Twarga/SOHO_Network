@@ -1,5 +1,5 @@
 # Project1 : SOHO Network 
-![ef2195ab36f537f3fd8f992f1ab6aca2.png](../../_resources/ef2195ab36f537f3fd8f992f1ab6aca2.png)
+![ef2195ab36f537f3fd8f992f1ab6aca2.png](/_resources/ef2195ab36f537f3fd8f992f1ab6aca2.png)
 ***XYZ*** company is a fast-growing company in Easter Australia with more than 2 milion customers globally.  The company deals with selling and buying of food items , which are basically operated from the headquarters. The company is intending to open a branch near the local village Bonalbo , Thus, the company is intending to open a branch near the ocal village Bonalbo, Thus , the company requires young IT graduates to design the network for the branch. The network is intended to operate seperately from HQ network . Being a small network, the company has the following requirements during implementation;
 - One router and one switch to be used (All CISCO products)
 - 3 departments (Admin/IT , Finance/HR and Customer Service/Reception)
@@ -138,7 +138,7 @@ This command disables DNS domain lookup.
 
 
 # 2. Connecting Networking devices with Correct cabling.
-![ead3336efc74ac72641af4bfab9c0e07.png](../../_resources/ead3336efc74ac72641af4bfab9c0e07.png)
+![ead3336efc74ac72641af4bfab9c0e07.png](/_resources/ead3336efc74ac72641af4bfab9c0e07.png)
 We used : he cable used to connect a switch to an end device like a computer is an "Ethernet cable."
 
 # 3. Creating VLANS and assigning ports VLAN numbers 
@@ -290,9 +290,9 @@ This command saves the configuration to the router's startup configuration, ensu
 
 # 7. Configuring WLAN or Wireless network (Cisco Access Point)
 ## IT department 
-![fb5358b5a362a7b7eccb68abdf444bbf.png](../../_resources/fb5358b5a362a7b7eccb68abdf444bbf.png)
+![fb5358b5a362a7b7eccb68abdf444bbf.png](/_resources/fb5358b5a362a7b7eccb68abdf444bbf.png)
 ## Finance department 
-![fb537bc77329a69daeda1a75f3411c7b.png](../../_resources/fb537bc77329a69daeda1a75f3411c7b.png)
+![fb537bc77329a69daeda1a75f3411c7b.png](/_resources/fb537bc77329a69daeda1a75f3411c7b.png)
 ## Customer Support department 
-![3eb4d6e6018b337b06177b95bade4a6a.png](../../_resources/3eb4d6e6018b337b06177b95bade4a6a.png)
+![3eb4d6e6018b337b06177b95bade4a6a.png](/_resources/3eb4d6e6018b337b06177b95bade4a6a.png)
 
