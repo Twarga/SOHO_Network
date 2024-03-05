@@ -1,5 +1,6 @@
 # Project1 : SOHO Network 
 ![ef2195ab36f537f3fd8f992f1ab6aca2.png](/_resources/ef2195ab36f537f3fd8f992f1ab6aca2.png)
+
 ***XYZ*** company is a fast-growing company in Easter Australia with more than 2 milion customers globally.  The company deals with selling and buying of food items , which are basically operated from the headquarters. The company is intending to open a branch near the local village Bonalbo , Thus, the company is intending to open a branch near the ocal village Bonalbo, Thus , the company requires young IT graduates to design the network for the branch. The network is intended to operate seperately from HQ network . Being a small network, the company has the following requirements during implementation;
 - One router and one switch to be used (All CISCO products)
 - 3 departments (Admin/IT , Finance/HR and Customer Service/Reception)
